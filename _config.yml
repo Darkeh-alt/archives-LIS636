@@ -6,10 +6,10 @@
 lang: "en"
 
 # Name of your site (displayed in the header)
-title: Forever Jekyll
+title: LIS 636 - Archive Information
 
 # Short bio or description (displayed in the header)
-description: A simple, elegant and full featured Jekyll theme
+description: A site that provides background information on Archive Preservation and Conservation for first-time Archivists entering their fields.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/avatar.png
@@ -20,13 +20,13 @@ avatar: /assets/image/avatar.png
 
 # Your website URL (e.g. https://forever-jekyll.github.io or https://forever-jekyll.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://forever-jekyll.github.io
+url: https://archives-LIS636.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/archives-LIS636"
 
 # Navigation menu
 navigation_links:
@@ -41,16 +41,12 @@ navigation_links:
 
 # Footer icons
 footer_links:
-  - title: Feed
-    url: feed.xml
-    icon: fa fa-rss-square
-
-  - title: Twitter
-    url: https://twitter.com/jekyllrb
-    icon: fa fa-twitter-square
+  - title: Email
+    url: ksblancomen@uncg.edu
+    icon: fa fa-email-square
 
   - title: GitHub
-    url: https://github.com/forever-jekyll
+    url: https://github.com/archives-LIS636
     icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
